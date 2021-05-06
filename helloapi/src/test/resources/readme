@@ -1,0 +1,1 @@
+curl -v -F "file=@gutenberg.zip" http://localhost:8081/unzip
